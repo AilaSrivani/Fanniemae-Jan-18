@@ -1,0 +1,75 @@
+{
+"module":"workflowManagementTest",
+"models":[
+{
+"name": "WorkflowManagementWebelements",
+			"elements": [
+			{
+			        "key": "administration",
+					"value": "link_ivmenu00_menu_8",
+					"type": "ID"
+		    },
+		    {
+			        "key": "workflowManagementHeader",
+					"value": "link_ivmenu00_menu_8_sub3",
+					"type": "ID"
+		    },
+		    {
+			        "key": "objectType",
+					"value": "body_x_selOtypeCode_x_txtselOtypeCode_x_x",
+					"type": "ID"
+		    },
+		     {
+					"key": "keywordsBox",
+					"value": "body_x_txtQuery_x_x",
+					"type": "ID"
+		     },
+				{
+					"key": "searchBox",
+					"value": "body_x_prxFilterBar_x_cmdSearchBtn_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "resetBox",
+					"value": "body_x_prxFilterBar_x_cmdRazBtn_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "newWorkFlow",
+					"value": "proxyActionBar_x_create_wfl_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "workflowProcessCode",
+					"value": "body_x_txtProcessCode_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "automaticValidationCheckBox",
+					"value": "body_x_chkFirstActAutoVal_x0",
+					"type": "ID"
+				},
+				{
+					"key": "workflowLabel",
+					"value": "body_x_txtProcessLabel_x_txtProcessLabelen",
+					"type": "ID"
+				},
+				{
+					"key": "objectTypeInWorkflow",
+					"value": "body_x_selOtypeCode_x_txtselOtypeCode_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "save",
+					"value": "proxyActionBar_x__cmdSave_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "exit",
+					"value": "proxyActionBar_x__cmdEnd_btn2",
+					"type": "ID"
+				}
+		    ]
+			}
+		    ]
+			}

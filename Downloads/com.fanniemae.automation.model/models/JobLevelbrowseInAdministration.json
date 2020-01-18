@@ -1,0 +1,65 @@
+{
+"module":"jobLevelBrowseManagementTest",
+"models":[
+{
+"name": "JobLevelBrowseManagementWebelements",
+			"elements": [
+			     {
+					"key": "administration",
+					"value": "link_ivmenu00_menu_8",
+					"type": "ID"
+				},
+				{
+					"key": "keywordsBox",
+					"value": "body_x_txtQuery_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "searchBox",
+					"value": "body_x_prxFilterBar_x_cmdSearchBtn_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "resetBox",
+					"value": "body_x_prxFilterBar_x_cmdRazBtn_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "pRID",
+					"value": "body_x_txtReq_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "loginName",
+					"value": "body_x_txtContact_x_x",
+					"type": "ID"
+				}
+			    ]
+		        },
+		        {
+		        "name":"statusupdate",
+		        "elements":[
+		       {
+					"key": "administration",
+					"value": "link_ivmenu00_menu_8",
+					"type": "ID"
+				},
+				{
+					"key": "statusUpdateHeader",
+					"value": "link_ivmenu00_menu_8_sub12",
+					"type": "ID"
+				},
+				{
+					"key": "contractID",
+					"value": "body_x_txtCtrId_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "contractNewStatus",
+					"value": "body_x_selCtrStatus_x",
+					"type": "ID"
+				}
+		        ]
+		        }
+				]
+				}

@@ -1,0 +1,127 @@
+{
+"module":"alertMessageManagementTest",
+"models":[
+{
+     "name": "AlertMessagemgntWebelements",
+     "elements": [
+			{
+					"key": "administration",
+					"value": "link_ivmenu00_menu_8",
+					"type": "ID"
+		     },
+		     {
+					"key": "keywordsBox",
+					"value": "body_x_txtQuery_x_x",
+					"type": "ID"
+		     },
+		     {
+					"key": "alertMessageMgntHeader",
+					"value": "link_ivmenu00_menu_8_sub2",
+					"type": "ID"
+		     },
+		     {
+					"key": "objectTypes",
+					"value": "ddlbody_x_selOtypeCode_x",
+					"type": "ID"
+		     },
+		     {
+					"key": "searchBox",
+					"value": "body_x_prxFilterBar_x_cmdSearchBtn_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "resetBox",
+					"value": "body_x_prxFilterBar_x_cmdRazBtn_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "priority",
+					"value": "ddlbody_x_selPriority_x",
+					"type": "ID"
+				},
+				{
+					"key": "automatic",
+					"value": "ddlbody_x_chkAutomatic_x",
+					"type": "ID"
+				},
+				{
+					"key": "blocking",
+					"value": "ddlbody_x_chkBlocking_x",
+					"type": "ID"
+				},
+				{
+					"key": "createAnAlert",
+					"value": "proxyActionBar_x_create_anomaly_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "errorCode",
+					"value": "body_x_txtErrorCode_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "name",
+					"value": "body_x_txtErrorLabel_x_txtErrorLabelen",
+					"type": "ID"
+				},
+				{
+					"key": "automaticCheckBox",
+					"value": "body_x_chErrorAuto_x0",
+					"type": "ID"
+				},
+				{
+					"key": "sqlQuery",
+					"value": "body_x_txtReq_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "algorithm",
+					"value": "ddlbody_x_selErrorAlgo_x",
+					"type": "ID"
+				},
+				{
+					"key": "algorithmParameters",
+					"value": "body_x_txtErrorParam_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "authorisation",
+					"value": "body_x_selErrorAutoriz_x_txtselErrorAutoriz_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "objectTypeInAlert",
+					"value": "body_x_selErrorOType_x_txtselErrorOType_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "blockingCheckBox",
+					"value": "body_x_chErrorBlq_x0",
+					"type": "ID"
+				},
+				{
+					"key": "customisedLabel",
+					"value": "body_x_txtErrorCustomLabel_x_txtErrorCustomLabelen",
+					"type": "ID"
+				},
+				{
+					"key": "priorityInAlert",
+					"value": "ddlbody_x_selPriority_x",
+					"type": "ID"
+				},
+				{
+					"key": "description",
+					"value": "body_x_txtErrorDesc_x_txtErrorDescen",
+					"type": "ID"
+				},
+				{
+					"key": "save",
+					"value": "proxyActionBar_x__cmdSave_btn2",
+					"type": "ID"
+				}
+
+         ]
+
+         }
+        ]
+      }

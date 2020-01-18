@@ -1,0 +1,61 @@
+{
+"module":"approvalWorkflowTest",
+"models":[
+				{
+			"name": "ApprovalWorkFlowWebelements",
+			"elements": [
+				{
+					"key": "createSupplierApprovalWorkflowTab",
+					"value": "#body_x_tabc_containerTab_partworkflow .tab_label_class > div",
+					"type": "CSS"
+				},
+				{
+					"key": "createSupplierApprovalWorkflowSubmitForDiligence",
+					"value": "proxyActionBar_x_valFM_SUPREF_SuppliersINI_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "createSupplierApprovalWorkflowSubmitToWorkflow",
+					"value": "proxyActionBar_x_valFM_SUPREF_Suppliersots_btn2",
+					"type": "ID"
+				},
+				{
+					
+					"key": "createSupplierApprovalWorkflowApprovalFinal",
+					"value": "proxyActionBar_x_valFM_SUPREF_SuppliersVAL2_btn2",
+					"type": "ID"
+				
+				},
+				{
+					
+					"key": "createSupplierApprovalWorkflowApproveChanges",
+					"value": "proxyActionBar_x_valFM_SUPREF_SuppliersAPP2_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "refuse",
+					"value": "proxyActionBar_x_refFM_SUPREF_SuppliersVAL2_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "notifySupplier",
+					"value": "proxyActionBar_x_refFM_SUPREF_Suppliersfm_notify_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "refuseChanges",
+					"value": "proxyActionBar_x_refFM_SUPREF_SuppliersAPP2_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "moveBackToProfileInitiated",
+					"value": "proxyActionBar_x_refFM_SUPREF_Suppliersots_btn2",
+					"type": "ID"
+				}
+				]
+				}
+				]
+				}	
+				
+				
+				

@@ -1,0 +1,44 @@
+{
+"module":"searchAndVerifyTest",
+"models":[{
+			"name": "SearchAndVerifyWebelements",
+			"elements": [
+				{
+					"key": "createSupplierSupplierLink",
+					"value": "link_ivmenu00_menu_0",
+					"type": "ID"
+				},
+				{
+					"key": "createSupplierBrowseSuppliers",
+					"value": "link_ivmenu00_menu_0_sub0",
+					"type": "ID"
+				},
+				{
+					"key": "createSupplierStatusCroseMark",
+					"value": "//*[@id='ddlbody_x_ddlStatus_x__label']/../following-sibling::td/table//tbody/tr[2]//tbody/tr/td[1]",
+					"type": "XPATH"
+				},
+				{
+					"key": "searchSupplierSupplierType",
+					"value": "ddlbody_x_ddlType_x",
+					"type": "ID"
+				},
+				{
+					"key": "searchSupplierSearchKeyword",
+					"value": "body_x_txtQuery_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "searchSupplierSearchButton",
+					"value": "body_x_prxFilterBar_x_cmdSearchBtn_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "searchSupplierResultGridSupplierId",
+					"value": "//table[@id='body_x_grid_x']//tr/td[6]",
+					"type": "XPATH"
+				}
+				]	
+		}
+		]
+	   }

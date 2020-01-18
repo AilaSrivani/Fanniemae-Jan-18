@@ -1,0 +1,31 @@
+{
+"module":"approvalTest",
+"models":[
+{
+			"name": "ApprovalWebElements",
+			"elements": [
+				{
+					"key": "saveButton",
+					"value": "//input[@name='proxyActionBar:x:_cmdSave_btn2']",
+					"type": "XPATH"
+				},
+				{
+					"key": "contractTeamSet",
+					"value": "proxyActionBar_x_valctr_lifecycle_fm_eleven_2PRE_INI_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "saveButtonMarkC",
+					"value": "//span[@class='fa fa-times']",
+					"type": "XPATH"
+				}
+				,
+				{
+					"key": "approveButton",
+					"value": "//input[@name='proxyActionBar:x:valPUO_v7CATMANVAL_btn2']",
+					"type": "XPATH"
+				}
+			]
+		}
+		]
+	    }

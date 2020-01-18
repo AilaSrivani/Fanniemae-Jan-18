@@ -1,0 +1,108 @@
+{
+"module":"createMasterServiceAgreementTest",
+"models":[
+
+{
+			"name": "CreateMasterServicesAgreementWebelements",
+			"elements": [
+				{
+					"key": "contracts",
+					"value": "link_ivmenu00_menu_2",
+					"type": "ID"
+				},
+				{
+					"key": "createcontract",
+					"value": "link_ivmenu00_menu_2_sub0_sub0",
+					"type": "ID"
+				},
+				{
+					"key": "cspviolation",
+					"value": "//span[@class='fa fa-times']",
+					"type": "XPATH"
+				},
+				{
+					"key": "contractTitle",
+					"value": "//input[@name='body:x:tabc:x:info:x:prxinfo:x:txtLibContract:x:txtLibContracten']",
+					"type": "XPATH"
+				},
+				{
+					"key": "contractType",
+					"value": "//select[@id='ddlbody_x_tabc_x_info_x_prxinfo_x_selTypeContract_x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "supplier",
+					"value": "//input[@name='body:x:tabc:x:info:x:prxinfo:x:selSupplier:x:txtselSupplier:x:x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "costcenter",
+					"value": "//input[@name='body:x:tabc:x:info:x:prxinfo:x:orga_level:x:txtorga_level:x:x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "pepolesoftproject",
+					"value": "//input[@name='body:x:tabc:x:info:x:prxinfo:x:selFundingId:x:txtselFundingId:x:x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "fileattach",
+					"value": "//input[@name='body:x:tabc:x:info:x:prxinfo:x:prxDoc:x:UploadButtonControl_btn2']",
+					"type": "XPATH"
+				},
+				{
+					"key": "primaryCategory",
+					"value": "//input[@name='body:x:tabc:x:info:x:prxinfo:x:selFamily:x:txtselFamily:x:x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "productsServicesDescription",
+					"value": "//textarea[@name='body:x:tabc:x:info:x:prxinfo:x:txtCtrFmTxtproductservice:x:x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "contractStatusIndicator",
+					"value": "//select[@id='ddlbody_x_tabc_x_info_x_prxinfo_x_selFbdrindiCodeFmDdlriskindicator_2_x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "statusUpdateNextSteps",
+					"value": "//textarea[@name='body:x:tabc:x:info:x:prxinfo:x:txtCtrStatUpdNextSteps_1:x:x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "thirdPartyData",
+					"value": "//select[@id='ddlbody_x_tabc_x_info_x_prxinfo_x__ctr_fm_aor_edam_x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "transactionLegalSME",
+					"value": "//select[@id='ddlbody_x_tabc_x_info_x_prxinfo_x_txtCtrSme_x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "chargedtheloan",
+					"value": "//select[@id='ddlbody_x_tabc_x_info_x_prxinfo_x_txtCtrFsoneCode_x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "legal",
+					"value": "//select[@id='ddlbody_x_tabc_x_info_x_prxinfo_x__ctr_fm_aor_reo_x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "createdfromPR",
+					"value": "//select[@id='ddlbody_x_tabc_x_info_x_prxinfo_x_txtCtrFromPr_x']",
+					"type": "XPATH"
+				},
+				{
+					"key": "budgetBUApprovalProvidedinFieldglass",
+					"value": "//select[@id='ddlbody_x_tabc_x_info_x_prxinfo_x_txtCtrFg_x']",
+					"type": "XPATH"
+				}
+				
+			]
+		}
+		]
+		}
+		

@@ -1,0 +1,48 @@
+{
+	"module": "loginLogoutTest",
+	"models": [
+	{
+			"name": "LogoutWebelements",
+			"elements": [
+				{
+					"key": "loginMenu",
+					"value": "aLoginMenu",
+					"type": "ID"
+				},
+				{
+					"key": "logOutButton",
+					"value": "//a[contains(text(),'Logout')]",
+					"type": "XPATH"
+				}
+				
+			]
+		},
+		
+		
+		{
+			"name": "LoginWebelements",
+			"elements": [
+				{
+					"key": "usernameProcureOne",
+					"value": "body_x_txtLogin_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "passwordProcureOne",
+					"value": "body_x_txtPass_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "loginProcureOne",
+					"value": "//input[@name='body:x:btnLogin_btn2']",
+					"type": "XPATH"
+				},
+				{
+					"key": "costCentreList",
+					"value": "//div[@role='menuitem']/div",
+					"type": "XPATH"
+				}
+			]	
+	    }
+	]
+}
