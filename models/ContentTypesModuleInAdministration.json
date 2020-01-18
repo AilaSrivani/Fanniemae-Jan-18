@@ -1,0 +1,134 @@
+{
+"module":"contentTypesTest",
+"models":[
+{
+	"name": "ContentTypesWebelements",
+ 	"elements": [
+			{
+					"key": "contentTypeHeader",
+					"value": "link_ivmenu00_menu_8_sub1_sub0",
+					"type": "ID"
+				},
+				{
+					"key": "administration",
+					"value": "link_ivmenu00_menu_8",
+					"type": "ID"
+				},
+				{
+					"key": "keywordsBox",
+					"value": "body_x_txtQuery_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "searchBox",
+					"value": "body_x_prxFilterBar_x_cmdSearchBtn_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "resetBox",
+					"value": "body_x_prxFilterBar_x_cmdRazBtn_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "relationType",
+					"value": "body_x_ddlRelType_x",
+					"type": "ID"
+				},
+				{
+					"key": "onlyTemplates",
+					"value": "body_x_chkTemplate_x0",
+					"type": "ID"
+				},
+				{
+					"key": "addANewDocumentType",
+					"value": "proxyActionBar_x_add_new_content_type_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "code",
+					"value": "body_x_txtCttCode_x_txtCttCode",
+					"type": "ID"
+				},
+				{
+					"key": "label",
+					"value": "body_x_txtCttLabel_x_txtCttLabelen",
+					"type": "ID"
+				},
+				{
+					"key": "defaultValidityPeriod",
+					"value": "body_x_txtDelayValidity_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "defaultExpirationNotice",
+					"value": "body_x_txtDelayExpirationAlert_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "creationEditionAuthorisation",
+					"value": "body_x_ddlAuthLabelEdit_x_txtddlAuthLabelEdit_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "visualAuthorisation",
+					"value": "body_x_ddlAuthLabelDisplay_x_txtddlAuthLabelDisplay_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "administrationAuthorisation",
+					"value": "body_x_ddlAuthAdminAll_x_txtddlAuthAdminAll_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "versionisedCheckBox",
+					"value": "body_x_chkVersion_x0",
+					"type": "ID"
+				},
+				{
+					"key": "detailedSetUpCheckBox",
+					"value": "body_x_chkDetailed_x0",
+					"type": "ID"
+				},
+				{
+					"key": "logHitsCheckBox",
+					"value": "body_x_chkTrackHit_x0",
+					"type": "ID"
+				},
+				{
+					"key": "templateCheckBox",
+					"value": "body_x_chkTemplate_x0",
+					"type": "ID"
+				},
+				{
+					"key": "sharedDraftCheckBox",
+					"value": "body_x_chkPublicAccess_x0",
+					"type": "ID"
+				},
+				{
+					"key": "displayOnLoginScreenCheckBox",
+					"value": "body_x_chkLoginDisplay_x0",
+					"type": "ID"
+				},
+				{
+					"key": "save",
+					"value": "proxyActionBar_x__cmdSave_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "exit",
+					"value": "proxyActionBar_x__cmdEnd_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "exit1",
+					"value": "proxyActionBar_x__cmdEnd_btn2",
+					"type": "ID"
+				}
+			
+			
+			]
+			}
+
+]
+
+}

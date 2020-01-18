@@ -1,0 +1,223 @@
+{
+"module":"pageMenuManagementTest",
+"models":[
+{
+"name":"PageMenuManagementWebelements",
+"elements":[
+              {
+					"key": "administration",
+					"value": "link_ivmenu00_menu_8",
+					"type": "ID"
+				},
+				{
+					"key": "keywordsBox",
+					"value": "body_x_txtQuery_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "searchBox",
+					"value": "body_x_prxFilterBar_x_cmdSearchBtn_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "resetBox",
+					"value": "body_x_prxFilterBar_x_cmdRazBtn_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "pageAndMenuManagementHeader",
+					"value": "link_ivmenu00_menu_8_sub4",
+					"type": "ID"
+				},
+				{
+					"key": "module",
+					"value": "body_x_ddlModule_x",
+					"type": "ID"
+				},
+				{
+					"key": "parentPage",
+					"value": "body_x_selPageParent_x_txtselPageParent_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "nonSecuredPages",
+					"value": "body_x_chkNotSecure_x0",
+					"type": "ID"
+				},
+				{
+					"key": "navigationPages",
+					"value": "body_x_chkDisplay_x0",
+					"type": "ID"
+				},
+				{
+					"key": "filesDonotExist",
+					"value": "body_x_chkNotExist_x0",
+					"type": "ID"
+				},
+				{
+					"key": "usePageAsWebpart",
+					"value": "body_x_chkWebpart_x0",
+					"type": "ID"
+				},
+				{
+					"key": "authorisation",
+					"value": "body_x_selAuth_x_txtselAuth_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "createPage",
+					"value": "proxyActionBar_x__cmdNew_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "uRL",
+					"value": "body_x_txtPageUrl_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "moduleInCreatePage",
+					"value": "body_x_ddlModule_x",
+					"type": "ID"
+				},
+				{
+					"key": "objectType",
+					"value": "body_x_selObjectType_x_txtselObjectType_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "pageType",
+					"value": "ddlbody_x_selPageType_x",
+					"type": "ID"
+				},
+				{
+					"key": "accessType",
+					"value": "ddlbody_x_selAccessType_x",
+					"type": "ID"
+				},
+				{
+					"key": "mobilePage",
+					"value": "body_x_cbMobile_x0",
+					"type": "ID"
+				},
+				{
+					"key": "redirectToExternalPage",
+					"value": "body_x_selPageUrlRedirectExtranet_x_txtselPageUrlRedirectExtranet_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "redirectToMobilePage",
+					"value": "body_x_selPageUrlRedirectMobile_x_txtselPageUrlRedirectMobile_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "title",
+					"value": "body_x_txtPageTitle_x_txtPageTitleen",
+					"type": "ID"
+				}
+				
+				,
+				{
+					"key": "mainMenuTitle",
+					"value": "body_x_txtPageTitleMenu_x_txtPageTitleMenuen",
+					"type": "ID"
+				},
+				{
+					"key": "favoriteTitle",
+					"value": "body_x_txtTitleFavorite_x_txtTitleFavoriteen",
+					"type": "ID"
+				},
+				{
+					"key": "parentPageInCreatePage",
+					"value": "body_x_selPage_x_txtselPage_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "showInNavigation",
+					"value": "body_x_chkPageDisplay_x0",
+					"type": "ID"
+				},
+				{
+					"key": "displayOrder",
+					"value": "body_x_txtPageOrder_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "viewAuthorisation",
+					"value": "body_x_selAuthCode_x_txtselAuthCode_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "editAuthorisation",
+					"value": "body_x_selAuthWrite_x_txtselAuthWrite_x_x",
+					"type": "ID"
+				},
+				
+				{
+					"key": "isAWebpart",
+					"value": "body_x_chkWebPart_x0",
+					"type": "ID"
+				},
+				{
+					"key": "numberOfColumns",
+					"value": "body_x_txtWebPartCols_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "numberOfRows",
+					"value": "body_x_txtWebPartRows_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "description",
+					"value": "//*[@id='body_x_phcPageFunctional']/tbody/tr[12]/td[1]",
+					"type": "ID"
+				},
+				{
+					"key": "workflowLunchMode",
+					"value": "ddlbody_x_selWorkflowTriggerMode_x",
+					"type": "ID"
+				},
+				{
+					"key": "pageUsedOnlyAsAControl",
+					"value": "body_x_chkIsControl_x0",
+					"type": "ID"
+				},
+				{
+					"key": "defaultWebpartHeight",
+					"value": "body_x_tbPartHeight_x_x",
+					"type": "ID"
+				},
+				{
+					"key": "enableAuthorisationOnObjects",
+					"value": "body_x_chkRole_x0",
+					"type": "ID"
+				},
+				{
+					"key": "customizablePage",
+					"value": "body_x_cbLayout_x0",
+					"type": "ID"
+				},
+				{
+					"key": "activateAccessLogs",
+					"value": "body_x_chkLogAccess_x0",
+					"type": "ID"
+				},
+				{
+					"key": "script",
+					"value": "proxyActionBar_x_btnScript_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "save",
+					"value": "proxyActionBar_x__cmdSave_btn2",
+					"type": "ID"
+				},
+				{
+					"key": "exit",
+					"value": "proxyActionBar_x__cmdEnd_btn2",
+					"type": "ID"
+				}
+            ]
+ 		 }
+ 		]
+		}
